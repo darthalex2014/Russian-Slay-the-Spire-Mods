@@ -1,0 +1,234 @@
+{
+  "theJungle:AttackAndShieldTotem": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Удар тотема"
+    ],
+    "NAME": "Воодушевляющий тотем"
+  },
+  "theJungle:BabySnecko": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Укус",
+      "Пристальный взгляд"
+    ],
+    "NAME": "Детёныш Снекко"
+  },
+  "theJungle:BashTotem": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Удар тотема"
+    ],
+    "NAME": "Угрожающий тотем"
+  },
+  "theJungle:BuffTotem": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Удар тотема"
+    ],
+    "NAME": "Обогащающий тотем"
+  },
+  "theJungle:CarcassSack": {
+    "DIALOG": [],
+    "MOVES": [],
+    "NAME": "Мешок с падалью"
+  },
+  "theJungle:Cassacara": {
+    "DIALOG": [],
+    "MOVES": [
+      "Мощный укус",
+      "Пережевывание",
+      "Бездонный желудок"
+    ],
+    "NAME": "Кассакара"
+  },
+  "theJungle:ConfuseTotem": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Удар тотема"
+    ],
+    "NAME": "Ошеломляющий тотем"
+  },
+  "theJungle:DebuffTotem": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Удар тотема"
+    ],
+    "NAME": "Ослабляющий тотем"
+  },
+  "theJungle:DefenderSpyder": {
+    "NAME": "Паук-защитник"
+  },
+  "theJungle:DoubleStrikeTotem": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Удар тотема"
+    ],
+    "NAME": "Потрошащий тотем"
+  },
+  "theJungle:Flameango": {
+    "DIALOG": [
+      "Добро пожаловать в город вкуса!"
+    ],
+    "MOVES": [
+      "Огненное дыхание",
+      "Зажигательный пух"
+    ],
+    "NAME": "Фламанго"
+  },
+  "theJungle:FunGuy": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Чавканье",
+      "Заражение",
+      "Рассеивание спор",
+      "Взрыв спор",
+      "Рост",
+      "Поглощение"
+    ],
+    "NAME": "Грибопасть"
+  },
+  "theJungle:GiantWrat": {
+    "DIALOG": [],
+    "MOVES": [
+      "Сжигание жира",
+      "Мощный удар",
+      "Отчаянный удар"
+    ],
+    "NAME": "Гигантская крыса"
+  },
+  "theJungle:HunterSpyder": {
+    "NAME": "Паук-охотник"
+  },
+  "theJungle:JungleHunters": {
+    "MOVES": [
+      "Сальто назад",
+      "Обезвредить",
+      "Коварный удар",
+      "Танец с копьем"
+    ],
+    "NAME": "Охотник джунглей"
+  },
+  "theJungle:Lyon": {
+    "DIALOG": [
+      "РРРРРААА!"
+    ],
+    "MOVES": [
+      "Рёв",
+      "Наскок"
+    ],
+    "NAME": "Лион"
+  },
+  "theJungle:MamaSnecko": {
+    "DIALOG": [
+      "~Шшшшсссс...~"
+    ],
+    "MOVES": [
+      "Кладка яиц",
+      "Пристальный взгляд",
+      "Удар хвостом",
+      "Укус",
+      "Яростная атака"
+    ],
+    "NAME": "Мама Снекко"
+  },
+  "theJungle:MushroomGenki": {
+    "NAME": "Энергичный гриб"
+  },
+  "theJungle:MushroomKuudere": {
+    "NAME": "Скромный гриб"
+  },
+  "theJungle:MushroomYandere": {
+    "NAME": "Острый гриб"
+  },
+  "theJungle:Phrog": {
+    "DIALOG": [
+      "квааааа!"
+    ],
+    "MOVES": [
+      "Облизывание",
+      "Прыжок",
+      "Кваканье",
+      ""
+    ],
+    "NAME": "Фрогушка"
+  },
+  "theJungle:QueenSpyder": {
+    "NAME": "Королева пауков"
+  },
+  "theJungle:ShieldOtherTotem": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Удар тотема"
+    ],
+    "NAME": "Защищающий тотем"
+  },
+  "theJungle:SlimyTreeVines": {
+    "DIALOG": [
+      "Лозы джунглей"
+    ],
+    "MOVES": [
+      "Спутывание",
+      "Деление"
+    ],
+    "NAME": "Скользкие лозы джунглей"
+  },
+  "theJungle:SneckoCultist": {
+    "DIALOG": [
+      "@СЛАААААВЬСЯ@ @ВЕЛИКИЙ@ NL @СНЕККО!@",
+      "@...шшшшшшшшшш...@"
+    ],
+    "MOVES": [
+      "Удар плетью",
+      "ЗАМЕШАТЕЛЬСТВО",
+      "Толчок"
+    ],
+    "NAME": "Сектант Снекко"
+  },
+  "theJungle:SneckoEgg": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "",
+      "Вылупление"
+    ],
+    "NAME": "Яйцо Снекко"
+  },
+  "theJungle:SwingingAxe": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Перезагрузка"
+    ],
+    "NAME": "Ловушка с маятником"
+  },
+  "theJungle:TotemBoss": {
+    "DIALOG": [
+      ""
+    ],
+    "MOVES": [
+      "Удар тотема"
+    ],
+    "NAME": "Глас тотемов"
+  }
+}

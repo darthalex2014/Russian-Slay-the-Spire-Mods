@@ -1,0 +1,35 @@
+{
+  "theJungle:Gourd": {
+    "DESCRIPTION": "Даёт !M! Временных ОЗ.",
+    "NAME": "Горлянка"
+  },
+  "theJungle:PetSnecko": {
+    "DESCRIPTION": "Вы берёте !M! карту. NL Стоимость всех карт в руке становится случайной в этом ходу.",
+    "NAME": "Ручной Снекко",
+    "UPGRADE_DESCRIPTION": "Вы берёте !M! карты. NL Стоимость всех карт в руке становится случайной в этом ходу."
+  },
+  "theJungle:SS_Bright": {
+    "DESCRIPTION": "Вы берёте 1 карту. NL Добавляет !M! *Головокружение в стопку сброса.",
+    "NAME": "Яркие споры"
+  },
+  "theJungle:SS_Clouding": {
+    "DESCRIPTION": "Вы берёте 1 карту. NL Накладывает !M! Слабости.",
+    "NAME": "Мутные споры"
+  },
+  "theJungle:SS_Clumping": {
+    "DESCRIPTION": "Вы берёте 1 карту.",
+    "NAME": "Слипающиеся споры"
+  },
+  "theJungle:SS_Leeching": {
+    "DESCRIPTION": "Вы берёте 1 карту. NL ВСЕ враги восполняют !M! ОЗ.",
+    "NAME": "Вытягивающие споры"
+  },
+  "theJungle:SS_Sloth": {
+    "DESCRIPTION": "Вы берёте 1 карту. NL Накладывает !M! Лености.",
+    "NAME": "Споры лености"
+  },
+  "theJungle:SS_Toxin": {
+    "DESCRIPTION": "Вы берёте 1 карту. NL Вы получаете !M! урона.",
+    "NAME": "Токсичные споры"
+  }
+}
